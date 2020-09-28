@@ -17,7 +17,7 @@ const quiz = [
     correct: 'pocketmonsterは男性器を表す隠語だから'
   }, {
     question: 'Q5：「2年半、この時を待ち続けていた」から始まる、ある発明家が発表した機械は？',
-    answers: [ 'Andloid', 'ipod', 'Apple', 'iPhone'],
+    answers: [ 'Andloid','iPhone' 'ipod', 'Apple'],
     correct: 'iPhone'
   }, {
     question: 'Q6：パンはパンでも食べれないパンはフライパンですが、電車屋根にとりつけて架線の電流を導き入れる装置の事を何という？',
